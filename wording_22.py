@@ -1,3 +1,4 @@
+from typing import Any, Dict, Optional
 WORDING = \
 	{
 		'python_not_supported': 'Python版本不支持，更新 {version} 或更高版本',
