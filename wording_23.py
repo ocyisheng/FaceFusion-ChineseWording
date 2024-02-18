@@ -66,7 +66,7 @@ WORDING: Dict[str, Any] = \
 			"face_mask_types": "从可用的遮罩类型中进行选择  (选项: {choices})",
 			"face_mask_blur": "指定遮罩的模糊量",
 			"face_mask_padding": "指定遮罩填充（上、右、下、左）的百分比",
-			"face_mask_regions": "从可用的口罩区域中进行选择  (选项: {choices})",
+			"face_mask_regions": "从可用的遮罩区域中进行选择  (选项: {choices})",
 			"trim_frame_start": "指定提取的起始帧",
 			"trim_frame_end": "指定提取的结束帧",
 			"temp_frame_format": "指定用于帧提取的图像格式",
@@ -86,7 +86,7 @@ WORDING: Dict[str, Any] = \
 			"face_swapper_model": "选择负责脸部替换的模型",
 			"frame_enhancer_model": "选择负责帧增强的模型",
 			"frame_enhancer_blend": "混合已增强部分到上一帧中",
-			"lip_syncer_model": "选择负责嘴唇同步的模型",
+			"lip_syncer_model": "选择负责口型同步的模型",
 			"ui_layouts": "从可用视图布局中进行选择 (选项: {choices}, ...)"
 		},
 		"uis": {
